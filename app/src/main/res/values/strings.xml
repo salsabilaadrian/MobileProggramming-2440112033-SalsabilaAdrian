@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UAS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tmdb_api_key">aa283f245eb991b2142a569770ff4185</string>
+    <string name="base_url_image">https://image.tmdb.org/t/p/w780</string>
+</resources>
